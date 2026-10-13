@@ -1,6 +1,6 @@
 # Litera OCR
 
-C++20 OCR library that extracts Ukrainian/Russian text from images such as
+C++20 OCR library that extracts Ukrainian text from images such as
 real-estate ads and screenshots of social media posts.
 
 Pipeline: **DBNet text detection → reading-order sort → perspective crop →
@@ -52,7 +52,7 @@ Production models — run `tools/get_models.sh` on a machine with access to
 `paddleocr.bj.bcebos.com` (needs `pip install paddlepaddle paddle2onnx`):
 
 * `det_db.onnx` — PP-OCRv3 detection
-* `rec_cyrillic.onnx` — PP-OCRv3 cyrillic recognition (Ukrainian, Russian, …)
+* `rec_cyrillic.onnx` — PP-OCRv3 cyrillic recognition (Ukrainian, …)
 
 `assets/dicts/cyrillic_dict.txt` has 517 characters, so the recognition model
 must output 519 classes (blank + 517 chars + space). The engine validates this
