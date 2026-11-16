@@ -1,6 +1,6 @@
-![Downloads](https://img.shields.io/github/downloads/sonne120/WareHound-macOS/total)
+[![Downloads](https://img.shields.io/github/downloads/sonne120/litera-ocr/total)](https://github.com/sonne120/litera-ocr/releases)
+[![Latest](https://img.shields.io/github/downloads/sonne120/litera-ocr/latest/total)](https://github.com/sonne120/litera-ocr/releases/latest)
 
-![Latest](https://img.shields.io/github/downloads/sonne120/WareHound-macOS/latest/total)
 
 # Litera OCR
 
