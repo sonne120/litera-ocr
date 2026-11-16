@@ -1,3 +1,7 @@
+![Downloads](https://img.shields.io/github/downloads/sonne120/WareHound-macOS/total)
+
+![Latest](https://img.shields.io/github/downloads/sonne120/WareHound-macOS/latest/total)
+
 # Litera OCR
 
 C++20 OCR library that extracts Ukrainian text from images such as
