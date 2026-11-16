@@ -1,6 +1,9 @@
-[![Downloads](https://img.shields.io/github/downloads/sonne120/litera-ocr/total)](https://github.com/sonne120/litera-ocr/releases)
-[![Latest](https://img.shields.io/github/downloads/sonne120/litera-ocr/latest/total)](https://github.com/sonne120/litera-ocr/releases/latest)
-
+![C++20](https://img.shields.io/badge/C%2B%2B-20-00599C)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8)
+![Language](https://img.shields.io/github/languages/top/sonne120/litera-ocr)
+![Stars](https://img.shields.io/github/stars/sonne120/litera-ocr)
+![Last commit](https://img.shields.io/github/last-commit/sonne120/litera-ocr)
 
 # Litera OCR
 
